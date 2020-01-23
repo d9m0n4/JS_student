@@ -1,0 +1,2 @@
+const money = 1;
+      
